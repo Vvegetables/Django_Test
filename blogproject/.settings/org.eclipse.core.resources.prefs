@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//blog/admin.py=utf-8
+encoding//blog/apps.py=utf-8
+encoding//blog/feeds.py=utf-8
+encoding//blog/models.py=utf-8
+encoding//blog/search_indexes.py=utf-8
+encoding//blog/templatetags/blog_tags.py=utf-8
+encoding//blog/tests.py=utf-8
+encoding//blog/urls.py=utf-8
+encoding//blog/views.py=utf-8
+encoding//blog/whoosh_cn_backends.py=utf-8
+encoding//comments/forms.py=utf-8
+encoding//comments/models.py=utf-8
+encoding//comments/urls.py=utf-8
+encoding//comments/views.py=utf-8
